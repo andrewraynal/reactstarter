@@ -1,3 +1,11 @@
-Simple ReactJS App
+React Starter
+________________
 
-1. Use 'npm install' to install dependencies 
+Setup -
+npm install
+
+Server -
+npm start
+
+Compile -
+npm run compile
